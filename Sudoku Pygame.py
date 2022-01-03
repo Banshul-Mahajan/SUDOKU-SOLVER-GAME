@@ -1,4 +1,6 @@
 # GUI.py
+# Banshul Mahajan | Banshulm01@gmail.com
+
 import pygame
 import time
 pygame.font.init()
